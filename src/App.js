@@ -32,10 +32,10 @@ function App() {
       return [expense, ...prevExpenses];
     });
   };
+
   return (
     <div className="App">
       <NewExpense onSaveExpenses={saveExpensesHandler} />
-
       <Expenses items={expenses} />
     </div>
   );
