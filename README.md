@@ -3,7 +3,8 @@
 
 <h3>Build with:</h3>
 
-» React JS
+» React JS<br>
+» CSS
 
 <h2>Screenshots of the Project 📸</h2>
 <br>
